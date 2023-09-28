@@ -12,6 +12,8 @@ Welcome to the Fancy Mug Product Card README! This delightful product card showc
 6. Contributing
 
 ### Introduction 
+
+![Screenshot (962)](https://github.com/himanshu20yadav/product_card/assets/121588019/647e07a6-7c76-4815-88c1-4b4ce0fcbb6c)
  This product card is a visually appealing representation of a fancy mug. It's perfect for displaying mugs in an e-commerce store or showcasing your favorite mug collection on a personal website. Crafted with HTML and CSS, it's easy to integrate and customize for your specific needs.
 
 ### Features
